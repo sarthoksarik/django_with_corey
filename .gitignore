@@ -1,5 +1,6 @@
 venv/
 .vscode/
+__pycache__/
 learn.py
 django_project/__pycache__/
 django_project/blog/__pycache__/
